@@ -46,7 +46,7 @@ When you plug the battery and power up the circuit, while drawing you should sta
 <img src="images/diagram.png" width="80%" />
 </p>
 
-When you draw like in the figure above, (1) the current flow from the copper pad to your hand (**PENCIL_A** point), through your body (2), and then through the graphite of the drawing, back inside of the pencil and then to the point **PENCIL_B**. The current is limited by the resistance of your body and of the graphite in the drawing. These changes of resistance, modify the pitch of the sound produced by the 555 timer chip.
+When you draw like in the figure above, (1) the current flow from the copper pad to your hand (**PENCIL_A** point), through your body (2), and then through the graphite of the drawing, back inside of the pencil (3) and then to the point **PENCIL_B** (4). The current is limited by the resistance of your body and of the graphite in the drawing. These changes of resistance, modify the pitch of the sound produced by the 555 timer chip.
 
 #### Bill of Material (BOM)
 
