@@ -1,10 +1,10 @@
 # Homework 2 submission form
 
-1. **Your name**: NAME
+1. **Your name**: Gangtae Park
 
-2. **KAIST ID**: 0000000
+2. **KAIST ID**: 20190235
 
-3. **Email**: XXX@kaist.ac.kr
+3. **Email**: rkdxo0417@kaist.ac.kr
 
 4. **Video link**:
    http://............
